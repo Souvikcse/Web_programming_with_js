@@ -1,7 +1,7 @@
-var glob=10;
+    // var glob=10;
 
-function addi(x){
-    var glob=5;
-    return glob+x;
+function addi(){
+    var glob=10;
+    return "1"+glob;
 }
-console.log(addi(glob));
+console.log(addi());
