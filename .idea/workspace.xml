@@ -2,70 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f3d35d-09e3-4303-a90c-d74931a889a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Initial/script.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_intro/file1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nodejs_intro/lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Intro/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Intro/script.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="293" />
-    <option name="y" value="53" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Web_programming_with_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_programming_with_js" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1PV4q6jO2DjMEXEo4PjihNVqroj" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript 1.7" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -82,13 +53,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/Intro">
+  <component name="RunManager" selected="Node.js.file1.js">
+    <configuration name="More_promises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="More_promises.js" working-dir="$PROJECT_DIR$/Intro">
+      <method v="2" />
+    </configuration>
+    <configuration name="async_advanced.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="async_advanced.js" working-dir="$PROJECT_DIR$/Intro">
+      <method v="2" />
+    </configuration>
+    <configuration name="deffered_resolve.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="deffered_resolve.js" working-dir="$PROJECT_DIR$/Intro">
+      <method v="2" />
+    </configuration>
+    <configuration name="file1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="file1.js" working-dir="$PROJECT_DIR$/nodejs_intro">
+      <method v="2" />
+    </configuration>
+    <configuration name="promise_all.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="promise_all.js" working-dir="$PROJECT_DIR$/Intro">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/Intro">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="Node.js.file1.js" />
+        <item itemvalue="Node.js.promise_all.js" />
+        <item itemvalue="Node.js.More_promises.js" />
+        <item itemvalue="Node.js.deffered_resolve.js" />
+        <item itemvalue="Node.js.async_advanced.js" />
       </list>
     </recent_temporary>
   </component>
@@ -102,48 +92,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565777709474</updated>
-      <workItem from="1565777710615" duration="1175000" />
+      <workItem from="1565777710615" duration="7181000" />
+      <workItem from="1565859605403" duration="2906000" />
+      <workItem from="1565880104258" duration="1231000" />
+      <workItem from="1565946002383" duration="72000" />
+      <workItem from="1565946124093" duration="12582000" />
+      <workItem from="1566037751985" duration="5274000" />
+      <workItem from="1566116824048" duration="8189000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1175000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18360655" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Intro/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
