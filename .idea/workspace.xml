@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f3d35d-09e3-4303-a90c-d74931a889a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nodejs_intro/file1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodejs_intro/lib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_systm/read.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_systm/write.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,14 +53,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.file1.js">
+  <component name="RunManager" selected="Node.js.read.js">
     <configuration name="More_promises.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="More_promises.js" working-dir="$PROJECT_DIR$/Intro">
-      <method v="2" />
-    </configuration>
-    <configuration name="async_advanced.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="async_advanced.js" working-dir="$PROJECT_DIR$/Intro">
-      <method v="2" />
-    </configuration>
-    <configuration name="deffered_resolve.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="deffered_resolve.js" working-dir="$PROJECT_DIR$/Intro">
       <method v="2" />
     </configuration>
     <configuration name="file1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="file1.js" working-dir="$PROJECT_DIR$/nodejs_intro">
@@ -69,16 +63,22 @@
     <configuration name="promise_all.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="promise_all.js" working-dir="$PROJECT_DIR$/Intro">
       <method v="2" />
     </configuration>
+    <configuration name="read.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="read.js" working-dir="$PROJECT_DIR$/file_systm">
+      <method v="2" />
+    </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/Intro">
+      <method v="2" />
+    </configuration>
+    <configuration name="write.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="write.js" working-dir="$PROJECT_DIR$/file_systm">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.read.js" />
+        <item itemvalue="Node.js.write.js" />
         <item itemvalue="Node.js.file1.js" />
         <item itemvalue="Node.js.promise_all.js" />
         <item itemvalue="Node.js.More_promises.js" />
-        <item itemvalue="Node.js.deffered_resolve.js" />
-        <item itemvalue="Node.js.async_advanced.js" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <workItem from="1565946002383" duration="72000" />
       <workItem from="1565946124093" duration="12582000" />
       <workItem from="1566037751985" duration="5274000" />
-      <workItem from="1566116824048" duration="8189000" />
+      <workItem from="1566116824048" duration="10005000" />
     </task>
     <servers />
   </component>
